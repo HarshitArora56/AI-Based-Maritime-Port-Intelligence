@@ -140,7 +140,7 @@ MaritimePort_AI/
 
 ```bash
 pip install -r requirements.txt
-streamlit run appv4.py
+streamlit run app.py
 ```
 
 ---
