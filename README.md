@@ -8,7 +8,7 @@ and machine learning models.
 The system focuses on three core predictive capabilities:
 1. **Berth Feasibility Prediction**
 2. **Port Congestion Classification**
-3. **Delay (Berth Time) Estimation**
+3. **Delay Estimation**
 
 The project follows a **Medallion Architecture (Raw → Bronze → Silver → Gold)** and is delivered
 through a **Streamlit-based decision-support web application**, fully Dockerized for deployment.
