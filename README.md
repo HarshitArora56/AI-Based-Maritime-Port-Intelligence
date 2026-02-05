@@ -178,4 +178,4 @@ Academic and decision-support use only.
 * **Aashi Chahal**
 * **Prapti Kinare**
 * **Pravin Garje**
-C-DAC Major Project – AI & Data Engineering
+* C-DAC Major Project – AI & Data Engineering
