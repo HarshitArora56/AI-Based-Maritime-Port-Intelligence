@@ -170,7 +170,12 @@ Academic and decision-support use only.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team
 
-Harshit Arora  
-C-DAC Major Project – AI & Data Engineering
+* **Harshit Arora**
+* **Yash Daund**
+* **Mayuresh Bhombe**
+* **Aashi Chahal**
+* **Prapti Kinare**
+* **Pravin Garje**
+- C-DAC Major Project – AI & Data Engineering
