@@ -35,7 +35,7 @@ The table below reflects **actual dataset sizes from the final pipeline**.
 
 - **Files:** 365 daily AIS CSV files (Jan–Dec 2024)
 - **Records per file:** ~80,000 – 120,000
-- **Total records:** ~40–50 million AIS points
+- **Total records:** ~4–5 million AIS points
 - **Columns:** ~18
 - **Purpose:** Unprocessed, schema-on-read AIS data
 
@@ -85,7 +85,7 @@ The table below reflects **actual dataset sizes from the final pipeline**.
 
 | Layer | Rows |
 |------|------|
-| Raw | ~40–50 million |
+| Raw | ~4–5 million |
 | Bronze | 4,177,218 |
 | Silver | 233,520 |
 | Gold | 233,520 |
